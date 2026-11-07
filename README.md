@@ -58,6 +58,6 @@ Chrome extension that adds historical GPA stats and grade histograms to NTUST's 
 
 ## Tech stack
 
-**Languages:** Python · TypeScript · JavaScript · SQL · Rust
-**AI/ML:** PyTorch · Computer Vision · Vision Transformers · LLMs · RAG · AI Agents · LangGraph · MCP
-**Backend & Infra:** Next.js · PostgreSQL · Redis · Docker · Kubernetes · Terraform · GCP · Vercel
+- **Languages:** Python · TypeScript · JavaScript · SQL · Rust
+- **AI/ML:** PyTorch · Computer Vision · Vision Transformers · LLMs · RAG · AI Agents · LangGraph · MCP
+- **Backend & Infra:** Next.js · PostgreSQL · Redis · Docker · Kubernetes · Terraform · GCP · Vercel
