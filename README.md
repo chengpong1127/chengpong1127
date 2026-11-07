@@ -1,6 +1,6 @@
 # Hi, I'm Cheng-Peng
 
-**AI Engineer** building agentic systems, LLM tooling, and computer vision models.
+**AI Engineer** building agentic systems, LLM tooling, and computer vision models.<br>
 M.S. in Computer Science @ NTUST (GPA 4.0) · Based in Taipei · **Open to relocating to the U.S.**
 
 [LinkedIn](https://www.linkedin.com/in/cheng-peng-huang) · [Email](mailto:chengpong1127@gmail.com)
